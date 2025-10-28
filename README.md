@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # real-estate-management
 
 A online property management solution for real estate and
@@ -120,3 +121,7 @@ dummy user:
 /properties/
 /enquiries/
 ```
+=======
+# docker-for-angular
+write docker compose for angular and push into docker hub
+>>>>>>> 716a699d32615f3d1ca343048eeb1ff686c94ef7
